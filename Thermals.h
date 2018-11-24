@@ -1,8 +1,10 @@
 class Thermals
 {
-    double verticalSpeed;
+    private:
+        double verticalSpeed;
     
     public:
+        Thermals();
         void setVerticalSpeed();
         double getThermals();
 };

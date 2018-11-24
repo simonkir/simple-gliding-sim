@@ -3,6 +3,11 @@
 
 #include "Thermals.h"
 
+Thermals::Thermals()
+{
+    this->setVerticalSpeed();
+}
+
 // sets verticalSpeed to the current vertical speed
 void Thermals::setVerticalSpeed()
 {
