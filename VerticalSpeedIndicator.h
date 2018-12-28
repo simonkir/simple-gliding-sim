@@ -4,7 +4,7 @@
 class VerticalSpeedIndicator
 {
     private:
-        double verticalSpeed;
+        double m_verticalSpeed;
 
     public:
         VerticalSpeedIndicator(double verticalSpeed);

@@ -4,7 +4,7 @@
 class Thermals
 {
     private:
-        double verticalSpeed;
+        double m_verticalSpeed;
     
     public:
         Thermals();

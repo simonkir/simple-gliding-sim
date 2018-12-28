@@ -2,10 +2,10 @@
 
 VerticalSpeedIndicator::VerticalSpeedIndicator(double verticalSpeed)
 {
-    this->verticalSpeed = verticalSpeed;
+    m_verticalSpeed = verticalSpeed;
 }
 
 double VerticalSpeedIndicator::getVerticalSpeed()
 {
-    return this->verticalSpeed;
+    return m_verticalSpeed;
 }

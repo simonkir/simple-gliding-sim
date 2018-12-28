@@ -2,5 +2,5 @@
 
 Glider::Glider(Thermals thermals, VerticalSpeedIndicator verticalSpeedIndicator)
 {
-    this->thermals = thermals;
+    m_thermals = thermals;
 }

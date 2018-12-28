@@ -7,8 +7,8 @@
 class Glider
 {
     private:
-        Thermals thermals;
-        VerticalSpeedIndicator verticalSpeedIndicator;
+        Thermals m_thermals;
+        VerticalSpeedIndicator m_verticalSpeedIndicator;
 
     public:
         Glider(Thermals thermals, VerticalSpeedIndicator verticalSpeedIndicator);
