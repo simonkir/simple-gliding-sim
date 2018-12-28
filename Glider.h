@@ -1,3 +1,6 @@
+#ifndef GLIDER_H
+#define GLIDER_H
+
 #include "Thermals.h"
 #include "VerticalSpeedIndicator.h"
 
@@ -10,3 +13,5 @@ class Glider
     public:
         Glider(Thermals thermals, VerticalSpeedIndicator verticalSpeedIndicator);
 };
+
+#endif

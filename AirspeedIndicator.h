@@ -1,0 +1,4 @@
+#ifndef AIRSPEEDINDICATOR_H
+#define AIRSPEEDINDICATOR_H
+
+#endif

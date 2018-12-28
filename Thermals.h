@@ -1,3 +1,6 @@
+#ifndef THERMALS_H
+#define THERMALS_H
+
 class Thermals
 {
     private:
@@ -8,3 +11,5 @@ class Thermals
         void setVerticalSpeed();
         double getThermals();
 };
+
+#endif

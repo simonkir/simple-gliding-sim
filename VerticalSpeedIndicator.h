@@ -1,3 +1,6 @@
+#ifndef VERTICALSPEEDINDICATOR_H
+#define VERTICALSPEEDINDICATOR_H
+
 class VerticalSpeedIndicator
 {
     private:
@@ -7,3 +10,5 @@ class VerticalSpeedIndicator
         VerticalSpeedIndicator(double verticalSpeed);
         double getVerticalSpeed();
 };
+
+#endif
